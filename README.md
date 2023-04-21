@@ -6,7 +6,8 @@ Para rodar o código no caso de uma ou mais URLs, utiliza-se o comando:
 
 python - m desafio_2 -u https://www.example.com https://www.google.com
 
-Para utilizar um arquivo .csv, o código utilizado é 
+Para utilizar um arquivo .csv, o código utilizado é:
+
 python -m desafio_2 -f desafio_2/sites.csv
 
 ## Requirements
